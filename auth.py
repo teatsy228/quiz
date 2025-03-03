@@ -66,12 +66,16 @@ class AuthWindow:
         tk.Label(register_window, text="Пароль:").pack(pady=5)
         password_entry = tk.Entry(register_window, show="*")
         password_entry.pack(pady=5)
-        
+
+        tk.Label(register_window, text="Дата рождения:").pack(pady=5)
+        data_entry = tk.Entry(register_window)
+        data_entry.pack(pady=5)
         def register():
             username = username_entry.get().strip()
             password = password_entry.get().strip()
+            data = data_entry.get().strip()
             
-            if not username or not password:
+            if not username or not password or not data:
                 messagebox.showerror("Ошибка", "Логин и пароль не должны быть пустыми")
                 return
             
@@ -82,7 +86,8 @@ class AuthWindow:
             
             new_user = {
                 "username": username,
-                "password": password
+                "password": password,
+                "birthday": data
             }
             users.append(new_user)
             save_data(USER_DB, users)

@@ -4,7 +4,7 @@ from auth import AuthWindow
 def main():
     root = tk.Tk()
     root.title("Викторина")
-    root.geometry("400x300")
+    root.geometry("600x500")
     
     AuthWindow(root)
     root.mainloop()

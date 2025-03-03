@@ -28,5 +28,10 @@
         "username": "йцу",
         "quiz_id": 2,
         "score": 3
+    },
+    {
+        "username": "321",
+        "quiz_id": 3,
+        "score": 19
     }
 ]

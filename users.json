@@ -6,5 +6,10 @@
     {
         "username": "йцу",
         "password": "йцу"
+    },
+    {
+        "username": "qwe",
+        "password": "qwe",
+        "birthday": "2025.12.12"
     }
 ]
