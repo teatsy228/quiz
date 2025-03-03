@@ -62,7 +62,21 @@
             {"question_id": 305, "text": "20+32=?", "options": ["53", "52", "51", "52.8"], "correct_answers": [1]},
             {"question_id": 306, "text": "1000-948", "options": ["52", "51", "53", "511"], "correct_answers": [0]},
             {"question_id": 307, "text": "Что идет после 51?", "options": ["53", "54", "522", "52"], "correct_answers": [3]},
-            {"question_id": 308, "text": "123+321=?", "options": ["123123", "123321", "444", "404"], "correct_answers": [2]}
+            {"question_id": 308, "text": "123+321=?", "options": ["123123", "123321", "444", "404"], "correct_answers": [2]},
+            {"question_id": 309, "text": "3232*2=?", "options": ["6464", "6466", "522", "623"], "correct_answers": [0]},
+            {"question_id": 310, "text": "51+1=?", "options": ["52", "31", "42", "404"], "correct_answers": [0]},
+            {"question_id": 311, "text": "123123*4=?", "options": ["52", "492492", "400241", "41212"], "correct_answers": [1]},
+            {"question_id": 312, "text": "2+2*2=?", "options": ["2", "8", "6", "12"], "correct_answers": [2]},
+            {"question_id": 313, "text": "3*3+3=?", "options": ["11", "18", "15", "12"], "correct_answers": [3]},
+            {"question_id": 314, "text": "4+4+4+4=?", "options": ["40", "12", "16", "404"], "correct_answers": [2]},
+            {"question_id": 315, "text": "4+4+4+4+4=?", "options": ["40", "20", "16", "404"], "correct_answers": [1]},
+            {"question_id": 316, "text": "4+4+4+4+4=?", "options": ["40", "12", "16", "24"], "correct_answers": [3]},
+            {"question_id": 317, "text": "4+4+4+4+32=?", "options": ["52", "12", "16", "404"], "correct_answers": [0]},
+            {"question_id": 318, "text": "4+4+4=?", "options": ["40", "12", "16", "404"], "correct_answers": [1]},
+            {"question_id": 319, "text": "4+4=?", "options": ["44", "12", "16", "8"], "correct_answers": [3]},
+            {"question_id": 320, "text": "4+14=?", "options": ["18", "12", "16", "8"], "correct_answers": [0]}
+
+
         ]
     }
 ]
