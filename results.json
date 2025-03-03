@@ -1,0 +1,32 @@
+[
+    {
+        "username": "123",
+        "quiz_id": 1,
+        "score": 0
+    },
+    {
+        "username": "123",
+        "quiz_id": 1,
+        "score": 2
+    },
+    {
+        "username": "321",
+        "quiz_id": 1,
+        "score": 2
+    },
+    {
+        "username": "321",
+        "quiz_id": 1,
+        "score": 1
+    },
+    {
+        "username": "321",
+        "quiz_id": 1,
+        "score": 12
+    },
+    {
+        "username": "йцу",
+        "quiz_id": 2,
+        "score": 3
+    }
+]
